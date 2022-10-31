@@ -3,7 +3,9 @@
 I'm interested in numerical calculation methods of quantum spin system.
 
 ## NEW
-- release DNS_hamiltonian.hpp
+- release DNS_hamiltonian.hpp (see class_DNS_Hamiltonian repository) 
+- release COO_hamiltonian.hpp (see class_COO_Hamiltonian repository)
+- release CSC_hamiltonian.hpp (see class_CSC_Hamiltonian repository)
 
 <!--
 **bokazu/bokazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
