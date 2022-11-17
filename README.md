@@ -1,4 +1,9 @@
-### Hi there 👋
+### About
+
+量子スピン系の研究室に所属しています。
+spin-1/2 Heisenberg模型のHamiltonianの数値対角化を用いて磁性化合物の磁化過程などを調べています。
+
+数値計算手法、並列計算に興味があります。
 
 I'm interested in numerical calculation methods of quantum spin system.
 
