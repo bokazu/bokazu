@@ -1,13 +1,15 @@
-### About
+# About
 
+## 研究
 量子スピン系の研究室に所属しています。
 spin-1/2 Heisenberg模型のHamiltonianの数値対角化を用いて磁性化合物の磁化過程などを調べています。
 
-数値計算手法、並列計算に興味があります。
-
-I'm interested in numerical calculation methods of quantum spin system.
+## 興味
+- 数値計算手法、並列計算に興味があります。
+- Raspberry Piを用いた電子工作もやってます(遊んでる内容をまとめたリポジトリあります)。
 
 ## NEW
+- add Repository "raspberrypi"
 - release DNS_hamiltonian.hpp (see class_DNS_Hamiltonian repository) 
 - release COO_hamiltonian.hpp (see class_COO_Hamiltonian repository)
 - release CSC_hamiltonian.hpp (see class_CSC_Hamiltonian repository)
